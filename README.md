@@ -1,4 +1,3 @@
-# PRCCAM
 Pixel Relationship-Constrained Weakly Supervised Semantic Segmentation for Remote Sensing Images: Enhancing CAM Integrity and Pseudo-Label Quality
 
 ## Abstract
