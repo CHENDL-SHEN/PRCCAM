@@ -67,12 +67,14 @@ PRC_SAM---python get_se_map.py
 If you find this work useful for your research, please cite our paper:
 
 @article{fan2026weakly,
+
   title={Pixel Relationship-Constrained Weakly Supervised Semantic Segmentation for Remote Sensing Images: Enhancing CAM Integrity and Pseudo-Label Quality},
   author={Fan, Jiaming and Chen, Dali and Liu, Yang and Liu, Shixin},
   journal={The Visual Computer},
   year={2026},
   publisher={Springer}
 }
+
 
 
 
